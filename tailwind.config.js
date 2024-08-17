@@ -7,6 +7,7 @@ module.exports = {
     extend: {},
     width: {
       'laptop': '1024px',
+      '100':'100%'
     },
     colors: {
       'p-blue': '#5E3BEE',
