@@ -14,7 +14,8 @@ module.exports = {
       'p-red': '#E62872',
       'p-white': '#FFF',
       'p-transparent':' transparent',
-      'banner_bg':'#F5FCFF'
+      'banner_bg':'#F5FCFF',
+      'p-sky':'#F5FCFF'
     },
     fontFamily:{
       'robo' : "Roboto",
