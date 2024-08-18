@@ -40,6 +40,10 @@ module.exports = {
       // => @media (min-width: 1536px) { ... }
       'mb': '430px',
       // => @media (min-width: 1536px) { ... }
+    },
+    boxShadow: {
+      'box_shadow': ' 0px 5.33px 16px 0px #00000026'
+
     }
 
  
