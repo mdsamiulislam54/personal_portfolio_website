@@ -15,7 +15,8 @@ module.exports = {
       'p-white': '#FFF',
       'p-transparent':' transparent',
       'banner_bg':'#F5FCFF',
-      'p-sky':'#F5FCFF'
+      'p-sky':'#F5FCFF',
+      'review_card_b':'#006B6A'
     },
     fontFamily:{
       'robo' : "Roboto",
@@ -42,7 +43,8 @@ module.exports = {
       // => @media (min-width: 1536px) { ... }
     },
     boxShadow: {
-      'box_shadow': ' 0px 5.33px 16px 0px #00000026'
+      'box_shadow': ' 0px 5.33px 16px 0px #00000026',
+      'box_shadow_0': '0px,0px,0px,0px '
 
     }
 
